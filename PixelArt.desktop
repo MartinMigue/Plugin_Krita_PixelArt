@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=PixelArt
+Name=PixelArt
+Comment=Convierte una imagen en pixel art
